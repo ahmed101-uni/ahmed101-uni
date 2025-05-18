@@ -1,5 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed101-uni&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **ahmed101-uni/ahmed101-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
